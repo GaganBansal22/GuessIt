@@ -1,0 +1,17 @@
+module.exports.categories =[
+    'cricket',
+    'animals',
+    'movies',
+    "sports",
+    "actors",
+    "football",
+    "food",
+    "drinks",
+    "cartoons",
+    "brands",
+    "cities",
+    "cars",
+    "landmarks",
+    "emotions",
+    "objects",
+]
