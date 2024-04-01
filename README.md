@@ -2,6 +2,13 @@
 
 GuessIt is a fun party game where players hold their phone over their head, facing the audience. The audience then acts out the word displayed on the phone while the player holding the phone tries to guess the word. This game is built using React Native and is available as a mobile application.
 
+<div>
+  <img width="40%" src="https://github.com/GaganBansal22/GuessIt/assets/122668312/44624f78-0862-46b3-9890-acc2ef58cae7">
+  <img width="40%" src="https://github.com/GaganBansal22/GuessIt/assets/122668312/51faf861-f00a-4c2e-b6dc-aef3bc84522d">
+</div>
+
+![play](https://github.com/GaganBansal22/GuessIt/assets/122668312/1e924ff5-652b-4de0-bc37-889b8e77a572)
+
 ## Features
 
 - Multiple categories to choose from, offering a wide variety of words to guess.
@@ -30,7 +37,6 @@ To run GuessIt on your local machine, follow these steps:
 7. If you want to pass on the word without guessing, tilt the phone upwards.
 8. Swipe left to skip to the next word or swipe right if you guess the word correctly.
 9. Pass the phone to the next player and continue playing until everyone has had a turn.
-
 
 ## Contributing
 
